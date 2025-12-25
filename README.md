@@ -27,7 +27,14 @@ Here are some ideas to get you started:
 ☁️ Exploring Software Engineering and Backend Developement. <br>
 🧠 Currently diving into databases internals and architecture. <br>
 
-## Languages & Software 
+## Main Expertise
+<p align="center">
+  <a href="https://skillicons.dev">
+     <!-- <img src="https://skillicons.dev/icons?i=git,cpp,docker,postgres,go,latex,github,mongodb,neovim,vscode&perline=14" /> -->
+  </a>
+</p>
+
+## Languages & Developer Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cpp,docker,postgres,go,latex,github,mongodb,neovim,vscode&perline=14" />
