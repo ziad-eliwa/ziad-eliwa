@@ -27,6 +27,11 @@ Here are some ideas to get you started:
 ☁️ Exploring Software Engineering and Backend Developement. <br>
 🧠 Currently diving into databases internals and architecture. <br>
 
+## Featured Projects
+Coming Soon...
+<table>
+</table>
+
 ## Main Expertise
 <p align="center">
   <a href="https://skillicons.dev">
@@ -49,7 +54,3 @@ Here are some ideas to get you started:
 
 </p>
 
-## Featured Projects
-Coming Soon...
-<table>
-</table>
