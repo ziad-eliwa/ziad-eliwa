@@ -44,11 +44,12 @@ Here are some ideas to get you started:
 ## Operating Systems
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ubuntu,linux,debian&perline=14" />
+    <img src="https://skillicons.dev/icons?i=ubuntu,linux&perline=14" />
   </a><br>
 
 </p>
 
 ## Featured Projects
 Coming Soon...
+<table>
 </table>
